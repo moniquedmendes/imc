@@ -1,6 +1,6 @@
   # imc 
 
-BMI calculation project, for dart studies
+calculadora imc
 ## Getting Started
 
 This project is a starting point for a Flutter application.

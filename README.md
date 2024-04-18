@@ -1,6 +1,8 @@
   # imc 
 
-calculadora imc
+calculadora imc implementada em dart
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
